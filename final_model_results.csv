@@ -1,0 +1,46 @@
+Algorithm,Dataset,Metric,Score
+Tuned Logistic Regression,All Attacks,Accuracy,0.92854
+Tuned Logistic Regression,All Attacks,Recall,0.91697
+Tuned Logistic Regression,All Attacks,Precision,0.99380
+Tuned Logistic Regression,All Attacks,F1 Score,0.95384
+Tuned Logistic Regression,All Attacks,ROC AUC,0.94667
+Tuned Logistic Regression,DOS Attacks,Accuracy,0.89861
+Tuned Logistic Regression,R2L Attacks,Accuracy,0.98624
+Tuned Logistic Regression,U2R Attacks,Accuracy,1.00000
+Tuned Logistic Regression,Probe Attacks,Accuracy,0.90374
+Tuned Decision Tree,All Attacks,Accuracy,0.90546
+Tuned Decision Tree,All Attacks,Recall,0.95555
+Tuned Decision Tree,All Attacks,Precision,0.92906
+Tuned Decision Tree,All Attacks,F1 Score,0.94212
+Tuned Decision Tree,All Attacks,ROC AUC,0.82698
+Tuned Decision Tree,DOS Attacks,Accuracy,0.99223
+Tuned Decision Tree,R2L Attacks,Accuracy,0.56790
+Tuned Decision Tree,U2R Attacks,Accuracy,0.25000
+Tuned Decision Tree,Probe Attacks,Accuracy,0.95703
+Tuned Random Forest,All Attacks,Accuracy,0.92332
+Tuned Random Forest,All Attacks,Recall,0.91103
+Tuned Random Forest,All Attacks,Precision,0.99317
+Tuned Random Forest,All Attacks,F1 Score,0.95033
+Tuned Random Forest,All Attacks,ROC AUC,0.94257
+Tuned Random Forest,DOS Attacks,Accuracy,0.99190
+Tuned Random Forest,R2L Attacks,Accuracy,0.59824
+Tuned Random Forest,U2R Attacks,Accuracy,0.64000
+Tuned Random Forest,Probe Attacks,Accuracy,0.83581
+Tuned XGBoost,All Attacks,Accuracy,0.91180
+Tuned XGBoost,All Attacks,Recall,0.96130
+Tuned XGBoost,All Attacks,Precision,0.93137
+Tuned XGBoost,All Attacks,F1 Score,0.94610
+Tuned XGBoost,All Attacks,ROC AUC,0.83426
+Tuned XGBoost,DOS Attacks,Accuracy,0.26314
+Tuned XGBoost,R2L Attacks,Accuracy,0.91560
+Tuned XGBoost,U2R Attacks,Accuracy,0.97059
+Tuned XGBoost,Probe Attacks,Accuracy,0.84422
+Artificial Neural Network,All Attacks,Accuracy,0.92517
+Artificial Neural Network,All Attacks,Recall,0.91118
+Artificial Neural Network,All Attacks,Precision,0.99550
+Artificial Neural Network,All Attacks,F1 Score,0.95148
+Artificial Neural Network,All Attacks,ROC AUC,0.94708
+Artificial Neural Network,DOS Attacks,Accuracy,0.84982
+Artificial Neural Network,R2L Attacks,Accuracy,0.61565
+Artificial Neural Network,U2R Attacks,Accuracy,0.55882
+Artificial Neural Network,Probe Attacks,Accuracy,0.71580
