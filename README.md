@@ -39,19 +39,20 @@ This project was created using the following languages and libraries. An environ
 
 ## Final Models' Results
 
-### Entire Test Set
-![Model Performance - All Attacks](model_performance_all_attacks.png)
-
 ### DOS Attacks
+Our best models, the tuned Random Forest and Decision Tree models, detected 99.2% of all denial-of-service attacks. 
 ![Model Performance - DOS Attacks](model_performance_DOS.png)
 
 ### U2R Attacks
+Our best models, the tuned Logistic Regression and XGBoost models, detected 100% and 97.2% of all user-to-root attacks, respectively. 
 ![Model Performance - U2R Attacks](model_performance_U2R.png)
 
 ### Probe Attacks
+Our best model, the tuned Decision Tree, detected 95.7% of all probe attacks. These were certainly the hardest attacks to detect and our models could benefit from additional training and 
 ![Model Performance - Probe Attacks](model_performance_probe.png)
 
 ### R2L Attacks
+Our best model, the tuned Logistic Regression model, detected 99.2% of all remote-to-local attacks. 
 ![Model Performance - R2L Attacks](model_performance_R2L.png)
 
 ## Security Recommendations
